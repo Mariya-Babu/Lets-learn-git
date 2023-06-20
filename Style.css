@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    height: 100vh;
+}
+body h1{
+    padding: 5px;
+    margin: 0px;
+    border-radius: 5px 10px;
+    box-shadow: 5px 5px 6px grey;
+    background-color: aliceblue;
+}
